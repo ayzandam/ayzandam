@@ -5,7 +5,7 @@ My name is Abubakar Yakubu Zandam, an AI-researcher and early-career data scient
 - 🚀 Also an early career data scientist, passionate about developing AI solutions to solve societal problems.
 - 🔭 Learning about deep learning, natural language processing and computer vision.
 - 👯 I’m looking to collaborate on research related to AI; either ML, DL or NLP.
-- Find my research work and publications here:
+- 🏆 Find my research work and publications here:
   - [Google Scholar](https://scholar.google.com/citations?hl=en&user=JOVw3IwAAAAJ&view_op=list_works&gmla=AH70aAVbei0WU3ZeQ1thAmVgo03mBGp4gXvgvtJ9IWxN8goR3opOc_Dy1Nyvo7kaflpLFXjnT6l-YXVPgfaSpoYi)
   - [My Website](https://t.ly/zandam-abubakar)
 - 🏪 You can contact me via:
