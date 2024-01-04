@@ -1,23 +1,26 @@
-## Hi, I am Abubakar Zandam 👋 
-My name is Abubakar Yakubu Zandam, an AI-researcher and early-career data scientist with a solid educational background, holding both Bachelor's and Master's degrees in Computer Science. Currently serving as an Assistant Lecturer at the Federal University of Technology Babura, my passion lies in leveraging artificial intelligence to address real-world challenges, particularly in the realms of Natural Language Processing (NLP), Computer Vision, and Health Informatics.
+Hi. My name is Abubakar Zandam
+================================
 
-- 👨 I am a fellow at Arewa Data Science Academy Fellowship Program.
-- 🚀 Also an early career data scientist, passionate about developing AI solutions to solve societal problems.
-- 🔭 Learning about deep learning, natural language processing and computer vision.
-- 👯 I’m looking to collaborate on research related to AI; either ML, DL or NLP.
-- 🏆 Find my research work and publications here:
-  - [Google Scholar](https://scholar.google.com/citations?hl=en&user=JOVw3IwAAAAJ&view_op=list_works&gmla=AH70aAVbei0WU3ZeQ1thAmVgo03mBGp4gXvgvtJ9IWxN8goR3opOc_Dy1Nyvo7kaflpLFXjnT6l-YXVPgfaSpoYi)
-  - [My Website](https://t.ly/zandam-abubakar)
-- 🏪 You can contact me via:
-  - Email: [ayzandam95@gmail.com](ayzandam95@gmail.com)
-  - Linkedin: [linkedin/abubakar-zandam](linkedin.com/in/abubakar-yakubu-zandam-184187142)
-   
+AI Enthusiastic
+---------------
+
+I am an AI-researcher and early-career data scientist, holding Bachelor's and Master's degrees in Computer Science. Currently serving as an Assistant Lecturer at the Federal University of Technology Babura, my passion lies in leveraging artificial intelligence to address real-world challenges, particularly in the realms of Natural Language Processing (NLP), Computer Vision, and Health Informatics.
+
+* 🌍  I'm based in Dutse, Nigeria
+* 🖥️  See my portfolio at [Website](http://sites.google.com/view/zandamabubakar/)
+* ✉️  You can contact me at [ayzandam95@gmail.com](mailto:ayzandam95@gmail.com)
+* 🚀  I'm currently working on [Low Resource Languages](http://sites.google.com/view/zandamabubakar/project)
+* 🧠  I'm learning TensorFlow and Keras
+* 🤝  I'm open to collaborating on Natural Language Processing and Computer Vision
+
+### Skills
 
 
-<!--
-**ayzandam/ayzandam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
-Here are some ideas to get you started:
 
-- ⚡ Fun fact: ...
--->
+### Socials
+
+<p align="left"> <a href="https://www.github.com/ayzandam " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
